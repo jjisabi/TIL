@@ -333,7 +333,12 @@ const c = Array.from('abc') //['a', 'b', 'c']
 
     console.log(arr) // [1, 2, 7, 10, 11]
     ```
-<br>        
+<br>
+
+<참고>
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+<br>
 
 
 
